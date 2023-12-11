@@ -1,0 +1,195 @@
+{
+  "favoriteAlbums": [
+    {
+      "albumTitle": "Between Two Selves",
+      "artist": "Octo Octa",
+      "albumArtFilename": "https://i.discogs.com/3nm38wZxP7Db_DZYN8GLhH_IjICw4JMPu0LwnoIj_l0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTUz/NzctMTM2OTY5MTA2/Ni04MDk1LmpwZWc.jpeg",
+      "genres": [
+        "Deep House"
+      ],
+      "tags": [
+        "Fave-AT"
+      ],
+      "links": [
+		{"type":"Spotify", "url":"https://open.spotify.com/album/52mgsNqFG07OlPOmA0Q4Sj"},
+		{"type":"Bandcamp", "url":"https://octoocta.bandcamp.com/album/between-two-selves"}
+		]
+    },
+    {
+      "albumTitle": "Reclaim",
+      "artist": "Pépe",
+      "albumArtFilename": "https://i.discogs.com/fnLoNAdFrpUzpF6l28HLVB6xdJk69_bW3Vfxuw_IGbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg4/NTI3LTE2ODIyNDk2/MzUtMTQ4NS5qcGVn.jpeg",
+      "genres": [
+        "Experimental",
+        "Ambient"
+      ],
+      "tags": [
+        "Fave-AT",
+        "Fave-2023"
+      ],
+      "links": [
+		{"type":"Spotify", "url":"dummy"},
+		{"type":"Bandcamp", "url":"https://pepmanpepe.bandcamp.com/album/reclaim"}
+		]
+    },
+    {
+      "albumTitle": "The Acrobat",
+      "artist": "Grant",
+      "albumArtFilename": "https://i.discogs.com/jZ3vwAFDeuA3wKfX7B9aVAz34O4C5gMrTXV9ZUhFzkk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mzc5/NzgtMTQ0NTY4NTQ3/MC03ODM4LmpwZWc.jpeg",
+      "genres": [
+        "Deep House"
+      ],
+      "tags": [
+        "Fave-AT"
+      ],
+      "links": [
+		{"type":"YouTube", "url":"https://www.youtube.com/watch?v=6SN7MBWUHWY"}
+		]
+    },
+    {
+      "albumTitle": "Galactic Melt",
+      "artist": "Com Truise",
+      "albumArtFilename": "https://i.discogs.com/WDhwqM4MSa9X9cJEi0XqUOEZBvwIu7Pa2wffQPRGz9s/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDk4/ODItMTQ2MTkwOTMx/Ny01MTM1LmpwZWc.jpeg",
+      "genres": [],
+      "tags": [
+        "Fave-AT"
+      ],
+      "links": [
+		{"type":"spotify", "url":"https://open.spotify.com/album/1PSr89gL5T8Ki87t4V5BGZ?autoplay=true"}
+		]
+    },
+    {
+      "albumTitle": "Journeymann Trax",
+      "artist": "Smoke Tape",
+      "albumArtFilename": "https://i.discogs.com/ltLHI3Bf7UF5W9zFRO3OK2dcHDEJU9GG66GerHtmc5I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODIx/NzItMTQ2MzQwMDkx/OC0xMDAyLmpwZWc.jpeg",
+      "genres": [
+        "Deep House"
+      ],
+      "tags": [
+        "Fave-AT"
+      ],
+      "links": [
+		{"type":"spotify", "url":"https://open.spotify.com/album/6UQFJCmACwKoI5qL9LUbxE"}		]
+    },
+    {
+      "albumTitle": "Backwater",
+      "artist": "KLLO",
+      "albumArtFilename": "https://i.discogs.com/-fOqZ-kDKtQW-5DFYe2lc-SztvM5ZMb97tKRnNZ0srQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE3/OTcxLTE1MDg0MTIw/NDQtNjEwOC5qcGVn.jpeg",
+      "genres": [
+        "Pop"
+      ],
+      "tags": [
+        "Fave-AT"
+      ],
+       "links": [
+		{"type":"spotify", "url":"https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA"}
+		]
+    },
+    {
+      "albumTitle": "Warp Fields",
+      "artist": "Packed Rich",
+      "albumArtFilename": "https://i.discogs.com/sOw3i6ohIvzsnpDQJS1NQxG9hBWWjeMk18s87OiDtTU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDYz/Njg0LTE2ODM5NzYz/MjktMTg2NS5qcGVn.jpeg",
+      "genres": [],
+      "tags": [
+        "Fave-2023"
+      ],
+      "links": [
+		{"type":"Bandcamp", "url":"https://iliantape.bandcamp.com/album/itlp15-warp-fields"},
+		{"type":"Spotify", "url":"https://open.spotify.com/album/34AhjuU3V7k7W7nRNvcVD7?autoplay=true"}
+		]
+    },
+    {
+      "albumTitle": "Due in Color",
+      "artist": "Andrea",
+      "albumArtFilename": "https://i.discogs.com/2ARLMJGcuJOEGbGuOC7w3UXMoKTue6eb00UAwq7rfvs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE5/NjU3LTE2Nzk2MDAy/MTYtMTM3My5qcGVn.jpeg",
+      "genres": [],
+      "tags": [
+        "Fave-2023"
+      ],
+      "links": [
+		{"type":"Bandcamp", "url":"https://iliantape.bandcamp.com/album/itlp14-due-in-color"},
+		{"type":"Spotify", "url":"https://open.spotify.com/album/5tNGFRzgDAJ1SpBtRdmLCl?autoplay=true"}
+		]
+    },
+    {
+      "albumTitle": "Synthesized Sudan",
+      "artist": "Jantra",
+      "albumArtFilename": "https://f4.bcbits.com/img/a2461845631_10.jpg",
+      "genres": [
+        "World"
+		],
+      "tags": [
+        "Fave-2023"
+      ],
+      "links": [
+		{"type":"Bandcamp", "url":"https://ostinatorecords.bandcamp.com/album/synthesized-sudan-astro-nubian-electronic-jaglara-dance-sounds-from-the-fashaga-underground"},
+		{"type":"Spotify", "url":"https://open.spotify.com/album/5bIPJ4G0LcX4UgUohtiMOF?autoplay=true"}
+		]
+    },
+    {
+      "albumTitle": "Mas Amable",
+      "artist": "DJ Python",
+      "albumArtFilename": "https://i.discogs.com/3G00WKPd2bK18pJMCuXDc7ybT0CwmsMFG-GoyF_bDzU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTA3/ODM1LTE1OTE4NzI4/MjUtNzY1Ny5qcGVn.jpeg",
+      "genres": [
+        "World",
+        "Deep House"
+      ],
+      "tags": [
+        "Fave-AT"
+      ],
+      "links": [
+		{"type":"Bandcamp", "url":"https://djpythonnyc.bandcamp.com/album/mas-amable"},
+		{"type":"Spotify", "url":"https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM?autoplay=true"}
+		]
+    },
+    {
+      "albumTitle": "Twice Lived",
+      "artist": "Sanguine",
+      "albumArtFilename": "https://i.discogs.com/BM5tuDdOhpU93LvjM7XgnNfiQM5Y0ECwXPvFV3QxpHU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTY3/ODAxLTE2OTcwOTQ0/MDEtOTQ5MS5qcGVn.jpeg",
+      "genres": [
+        "Genre 1",
+        "Genre 2"
+      ],
+      "tags": [
+        "Fave-2023"
+      ],
+      "links": [
+		{"type":"bandcamp", "url":"https://roberthughes.bandcamp.com/album/twice-lived"},
+		{"type":"spotify", "url":"https://open.spotify.com/album/19stUD3OXVO4RcOiug3ilh?autoplay=true"}
+		]
+    },
+    {
+      "albumTitle": "FaltyDL",
+      "artist": "Hardcourage",
+      "albumArtFilename": "https://i.discogs.com/-KdVZblDgZw2SQw-NI8WqEhDrzy5SlTGfOUFtOPfxJs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjI1/OTItMTM2MDQxODQ2/Ni02MDkwLmpwZWc.jpeg",
+      "genres": [
+        "Genre 1",
+        "Genre 2"
+      ],
+      "tags": [
+        "Fave-AT"
+      ],
+      "links": [
+		{"type":"Spotify", "url":"https://open.spotify.com/album/0cVU5XCQu5fJQHqvMiotmF?autoplay=true"}
+		]
+    },
+    {
+      "albumTitle": "Dummy entry",
+      "artist": "Dummy",
+      "albumArtFilename": "album_art_3.jpg",
+      "genres": [
+        "Genre 1",
+        "Genre 2"
+      ],
+      "tags": [
+        "dummy"
+      ],
+      "links": [
+		{"type":"type", "url":"xxx"},
+		{"type":"type2", "url":"xxx"}
+		]
+    }
+  ]
+}
+
+

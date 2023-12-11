@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Favorite Albums</title>
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+ul, li {
+  list-style: none
+}
+img {
+  float: left; 
+  margin: 0px 15px 15px 0px;
+}
+p.tight {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+
+</style>
+</head>
+<body>
+<!-- <p>The tag param passed is {{ tagParam }}</p>
+<p>The genre param passed is {{ genreParam }}</p>
+-->
+
+<p><a href="/albums">Reset</a></p>
+
+{% if tagParam == None %}
+
+    <h2>All Tags</h2>
+    <ul>
+        {% for tag in all_tags %}
+		{% if tag != "dummy" %}
+			{% if genreParam == None %}
+				<li><a href="?tag={{ tag }}">{{ tag }}</a></li>
+			{% else %}
+				<li><a href="?genre={{ genreParam }}&tag={{ tag }}">{{ tag }}</a></li>		
+			{% endif %}
+		{% endif %}
+        {% endfor %}
+    </ul>
+{% endif %}
+
+{% if genreParam == None %}
+
+    <h2>All Genres</h2>
+    <ul>
+        {% for genre in all_genres %}
+			{% if tagParam == None %}
+				<li><a href="?genre={{ genre }}">{{ genre }}</a></li>
+			{% else %}
+				<li><a href="?tag={{ tagParam }}&genre={{ genre }}">{{ genre }}</a></li>
+			{% endif %}
+        {% endfor %}
+    </ul>
+	<hr>
+{% endif %}
+<h1>Results</h1>
+<p>
+{% if genreParam != None %}
+<em>{{ genreParam }}</em>
+{% endif %}
+Albums
+{% if tagParam != None %}
+tagged as <em>{{ tagParam }}</em>
+{% endif %}
+
+
+{% for album in albums %}
+	{% if "dummy" not in album.tags %}	
+	{% if tagParam == None or tagParam in album.tags %}
+	{% if genreParam == None or genreParam in album.genres %}
+        <li>
+            <img src="{{ album.albumArtFilename }}" alt="{{ album.albumTitle }} Album Art">
+            <h2>{{ album.artist }}<br>{{ album.albumTitle }}</h2>
+			<br style="clear:both" />
+            <p class="tight"><strong>Genres:</strong> {{ album.genres | join(", ") }}</p>
+            <p class="tight"><strong>Tags:</strong> {{ album.tags | join(", ") }}</p>
+			{% for link in album.links %}
+			{% if link["url"] != "xxx" %} 
+				<p class="tight"><strong><a href="{{ link["url"] }}" target="_blank">{{ link["type"] }}</a></strong></p>
+			{% endif %}
+			{% endfor %}
+<!--            <p class="tight"><strong><a href="{{ album.links.spotify }}" target="_blank">Spotify</a></strong></p>
+            <p class="tight"><strong><a href="{{ album.links.bandcamp }}" target="_blank">Bandcamp</a></strong></p>
+-->
+        </li>
+	{% endif %}
+	{% endif %}
+	{% endif %}
+{% endfor %}
+
+</body>
+</html>
+
